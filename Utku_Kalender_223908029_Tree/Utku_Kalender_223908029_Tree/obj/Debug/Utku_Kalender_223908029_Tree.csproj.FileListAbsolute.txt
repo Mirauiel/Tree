@@ -1,0 +1,10 @@
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\bin\Debug\Utku_Kalender_223908029_Tree.exe.config
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\bin\Debug\Utku_Kalender_223908029_Tree.exe
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\bin\Debug\Utku_Kalender_223908029_Tree.pdb
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.csproj.AssemblyReference.cache
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.Form1.resources
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.Properties.Resources.resources
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.csproj.GenerateResource.cache
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.csproj.CoreCompileInputs.cache
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.exe
+C:\Users\utkuk\OneDrive\Masaüstü\veri yapıları\Utku_Kalender_223908029_Tree\Utku_Kalender_223908029_Tree\obj\Debug\Utku_Kalender_223908029_Tree.pdb
